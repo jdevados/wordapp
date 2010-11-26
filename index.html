@@ -1,0 +1,57 @@
+<html>
+<head>
+
+<script type="text/javascript">
+
+        function fn1() {
+	document.getElementById('button1').focus();
+	}
+	
+
+</script>
+
+</head>
+
+<BODY BGCOLOR="white" onload="fn1()">
+
+<table border="8" bordercolor="blue" color="#306EFF">
+
+<tr>
+<td>
+<div align="center"><b><font size=+7 face="georgia" color="#306EFF">ISEE Words </b></font></div>
+</td>
+</tr>
+
+ 
+<tr>
+    <td>
+    <div align="center"><b><font size=+5 face="georgia" color="#F660AB">
+    {{ word.wrd }} </font>
+    </div>
+    </td>
+    </tr>
+
+<tr>
+    <td>
+    <div align="center"><b><font size=+5 face="georgia" color="lime">
+    {{ word.defn }}</font>
+    </b></div>
+    </td>
+    </tr>
+
+</tr>
+
+<tr>
+<td>
+<div align="center">
+<form action="/more">
+<input type="submit" id="button1" value="another word..."
+style="background-color:blue;color:white;font-size:larger;padding:30px;font-family:georgia">
+</form>
+</div>
+</td>
+</tr>
+
+</table>
+</body>
+</html>
