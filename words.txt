@@ -1,0 +1,1007 @@
+id=1, wrd="capricious", defn="fickle, impulsive, unpredictable"
+
+id=2, wrd="endorse", defn="to show approval"
+
+id=3, wrd="insinuate", defn="to indirectly suggest something not credible"
+
+id=4, wrd="innate", defn="inborn, natural"
+
+id=5, wrd="inhibit", defn="to restrain or supress"
+
+id=6, wrd="beguile", defn="to deceive"
+
+id=7, wrd="convene", defn="to meet to come together"
+
+id=8, wrd="fervent", defn="intense, passionate"
+
+id=9, wrd="entourage", defn="a group of associates or attendants"
+
+id=10, wrd="essential", defn="necessary"
+
+id=11, wrd="adverse", defn="unfavorable, bringing harm"
+
+id=12, wrd="decree", defn="unofficial order or decision"
+
+id=13, wrd="impasse", defn="blocked path, deadlock"
+
+id=14, wrd="ardent", defn="passionate"
+
+id=15, wrd="trepidation", defn="fear, apprehension"
+
+id=16, wrd="zealous", defn="filled with eagerness, fervor or passion"
+
+id=17, wrd="synopsis", defn="a summary"
+
+id=18, wrd="prolific", defn="abundant, plentiful"
+
+id=19, wrd="brusque", defn="abrupt"
+
+id=20, wrd="peddle", defn="to sell or offer goods from place to place"
+
+id=21, wrd="contentious", defn="quarrelsome argumentative"
+
+id=22, wrd="wrath", defn="anger, indignation"
+
+id=23, wrd="deceit", defn="a lie"
+
+id=24, wrd="felicitous", defn="pleasing"
+  
+id=25, wrd="repugnant", defn="loathsome, hateful"
+
+id=26, wrd="plausible", defn="believable, seemingly acceptable"
+
+id=27, wrd="heterogeneous", defn="composed of dissimilar parts diverse"
+
+id=28, wrd="plight", defn="an unfortunate, difficult situation a predicament"
+
+id=29, wrd="bravado", defn="pretended courage or feigned confidence"
+
+id=30, wrd="writhe", defn="to twist one's body continuously (in pain to suffer because of"
+
+id=31, wrd="emulate", defn="to imitiate, to copy, to mimic"
+
+id=32, wrd="deluge", defn="a great flood"
+
+id=33, wrd="perjury", defn="to lie under oath"
+
+id=34, wrd="obese", defn="very fat"
+
+id=35, wrd="despondent", defn="dejected discouraged"
+
+id=36, wrd="debunk", defn="to discredit"
+
+id=37, wrd="reminiscence", defn="remembrance of past events"
+
+id=38, wrd="palatable", defn="pleasant to the taste acceptable welcome"
+
+id=39, wrd="deplore", defn="to express disapproval"
+
+id=40, wrd="rudimentary", defn="undeveloped elementary"
+
+id=41, wrd="deficient", defn="lacking incomplete"
+
+id=42, wrd="rout", defn="complete defeat"
+
+id=43, wrd="delude", defn="to mislead to deceive"
+
+id=44, wrd="obsolete", defn="no longer in use"
+
+id=45, wrd="devastate", defn="to lay waste to destroy to overwhelm"
+
+id=46, wrd="fatigue", defn="exhaustion weariness extreme tiredness"
+
+id=47, wrd="destitute", defn="very poor"
+
+id=48, wrd="brevity", defn="conciseness briefness"
+
+id=49, wrd="judicious", defn="demonstrating good judgement sensible"
+
+id=50, wrd="succumb", defn="to give in to die from something"
+
+id=51, wrd="eccentric", defn="unconventional strange"
+
+id=52, wrd="obscure", defn="relatively unknown not easily understood"
+
+id=53, wrd="extroverted", defn="interested in other people the environment rather than oneself"
+
+id=54, wrd="sanctimonious", defn="ostentatiosly righteous hypocritical pretending to be holy"
+
+id=55, wrd="ecstatic", defn="joyful"
+
+id=56, wrd="rue", defn="to regret deeply"
+
+id=57, wrd="competent", defn="capable fit"
+
+id=58, wrd="suffice", defn="to be enough"
+
+id=59, wrd="deject", defn="to dishearten to depress"
+
+id=60, wrd="imminent", defn="about to happen impending"
+
+id=61, wrd="devout", defn="very religious"
+
+id=62, wrd="vend", defn="to sell offer for sale"
+
+id=63, wrd="reimburse", defn="to refund"
+
+id=64, wrd="emit", defn="to send out"
+
+id=65, wrd="persevere", defn="to continue despite challenges"
+
+id=66, wrd="scathing", defn="very severe scornful"
+
+id=67, wrd="inhabit", defn="to live in"
+
+id=68, wrd="unkempt", defn="looking untidy or neglected"
+
+id=69, wrd="bind", defn="to tie or fasten"
+
+id=70, wrd="conform", defn="to obey to follow rules"
+
+id=71, wrd="unanimous", defn="with everyone's agreement"
+
+id=72, wrd="condone", defn="to forgive to overook"
+
+id=73, wrd="illiterate", defn="uneducated not knowing how to read or write"
+
+id=74, wrd="placate", defn="to calm to pacify"
+
+id=75, wrd="paradox", defn="contradiction seemingly self-contradictory statement"
+
+id=76, wrd="conform", defn="to obey to follow rules"
+
+id=77, wrd="congenial", defn="friendly agreeable"
+
+id=78, wrd="corpulence", defn="fatness obesity"
+
+id=79, wrd="splice", defn="to join by interweaving or overlapping the ends"
+
+id=80, wrd="pompous", defn="full of self-importance"
+
+id=81, wrd="obstruct", defn="to block to hinder the movement or progress of"
+
+id=82, wrd="adjunct", defn="a non-essential supplement something additional"
+
+id=83, wrd="rabble", defn="a disorderly crowd"
+
+id=84, wrd="tenacity", defn="persistence"
+
+id=85, wrd="plagiarism", defn="the act of passing off the ideas or writing of another as one's own"
+
+id=86, wrd="astute", defn="shrewd observant clever"
+
+id=87, wrd="recur", defn="to happen again or repeatedly"
+
+id=88, wrd="raze", defn="to destroy completely"
+
+id=89, wrd="adhere", defn="to stick to"
+
+id=90, wrd="compelling", defn="demanding of attention"
+
+id=91, wrd="lunge", defn="a sudden forward movement of the body a thrust"
+
+id=92, wrd="fusion", defn="process of combining into one"
+
+id=93, wrd="diminish", defn="to make or become smaller in size"
+
+id=94, wrd="passive", defn="acted upon and not active not resisting"
+
+id=95, wrd="debris", defn="bits and pieces of stone rubbish"
+
+id=96, wrd="discerning", defn="able to see clearly"
+
+id=97, wrd="bounty", defn="generosity a generous gift"
+
+id=98, wrd="devotee", defn="one strongly devoted to something"
+
+id=99, wrd="flagrant", defn="offensive outrageous deliberately shocking"
+
+id=100, wrd="insipid", defn="uninteresting bland dull"
+
+id=101, wrd="garrulous", defn="chatty talkative"
+
+id=102, wrd="futile", defn="lacking purpose"
+
+id=103, wrd="dawdle", defn="to waste time to loiter"
+
+id=104, wrd="schism", defn="division split discord"
+
+id=105, wrd="aggressive", defn="belligerent"
+
+id=106, wrd="misbegotten", defn="illegitimate ill-conceived"
+
+id=107, wrd="glib", defn="articulate but insincere"
+
+id=108, wrd="germinate", defn="to begin to grow"
+
+id=109, wrd="divert", defn="to turn aside (from a course"
+
+id=110, wrd="diplomatic", defn="of diplomacy tactful"
+
+id=111, wrd="grovel", defn="to apologize profusely to humble oneself"
+
+id=112, wrd="pedantic", defn="paying excessive attention to rules"
+
+id=113, wrd="gregarious", defn="sociable"
+
+id=114, wrd="grotesque", defn="distorted fantastic ridicuouls absurd"
+
+id=115, wrd="bile", defn="the bitter, greenish fluid secreted by the liver"
+
+id=116, wrd="discursive", defn="rambling getting off topic"
+
+id=117, wrd="dingy", defn="not clean or bright grimy"
+
+id=118, wrd="fission", defn="process of breaking into parts"
+
+id=119, wrd="fidelity", defn="loyalty faithful devotion"
+
+id=120, wrd="ransack", defn="to search thoroughly or roughly"
+
+id=121, wrd="fictitious", defn="untrue false"
+
+id=122, wrd="fickle", defn="inconstant not loyal"
+
+id=123, wrd="dogged", defn="subbornly persevering"
+
+id=124, wrd="doff", defn="to take off (one's hat"
+
+id=125, wrd="demote", defn="to reduce to a lower rank"
+
+id=126, wrd="contend", defn="to compete to struggle to argue"
+
+id=127, wrd="ratify", defn="to approve formally to confirm to verify"
+
+id=128, wrd="recluse", defn="one who is shut off"
+
+id=129, wrd="hybrid", defn="an anumal or plant that is the offspring of two different species"
+
+id=130, wrd="piety", defn="holiness religious devotion"
+
+id=131, wrd="boisterous", defn="cheerfully noisy or rough"
+
+id=132, wrd="harbinger", defn="something that foreshadows"
+
+id=133, wrd="ingenuous", defn="innocent naive guileless"
+
+id=134, wrd="suspense", defn="aanxious uncertainty while awaiting an event or an outcome"
+
+id=135, wrd="kinetic", defn="relating to motion"
+
+id=136, wrd="tepid", defn="lukewarm"
+
+id=137, wrd="intricate", defn="complicated or difficult"
+
+id=138, wrd="pugnacious", defn="combative ready to fight"
+
+id=139, wrd="pungent", defn="strong or sharp smelling"
+
+id=140, wrd="warlock", defn="one that breaks faith the devil wizard"
+
+id=141, wrd="reek", defn="a strong unpleasant smell"
+
+id=142, wrd="barter", defn="to exchange good or property"
+
+id=143, wrd="disseminate", defn="to scatter or to spread"
+
+id=144, wrd="censor", defn="an official with the power to prohibit objectionable or obscene material"
+
+id=145, wrd="contemplate", defn="to gaze at or think about intently"
+
+id=146, wrd="tumult", defn="confusion disorder a loud, confused noise"
+
+id=147, wrd="usurp", defn="to seize another's power or rank"
+
+id=148, wrd="expunge", defn="to erase to eliminate"
+
+id=149, wrd="oath", defn="a promise of truth"
+
+id=150, wrd="debilitate", defn="to weaken to enfeeble"
+
+id=151, wrd="dearth", defn="scarcity insufficiency"
+
+id=152, wrd="ebullient", defn="zestfully enthusiastic boiling or seeming to boil"
+
+id=153, wrd="ostentatious", defn="showy pretentious"
+
+id=154, wrd="verify", defn="to confirm the truth of something"
+
+id=155, wrd="reluctantly", defn="unwillingly"
+
+id=156, wrd="miniscule", defn="tiny very small"
+
+id=157, wrd="mimicry", defn="imitation aping"
+
+id=158, wrd="eddy", defn="a current of air or wind"
+
+id=159, wrd="conceal", defn="to hide to keep secret"
+
+id=160, wrd="acclaim", defn="enthusiastic applause or approval"
+
+id=161, wrd="assess", defn="to judge to determine amount or value"
+
+id=162, wrd="amateur", defn="non-professional done for pleasure not pay unskillful"
+
+id=163, wrd="critic", defn="one who judges"
+
+id=164, wrd="camouflage", defn="to disguise in order to conceal from the enemy"
+
+id=165, wrd="cache", defn="a place in which stores of food are hidden"
+
+id=166, wrd="amorphous", defn="having no determined form or shape"
+
+id=167, wrd="bizarre", defn="very odd or unusual"
+
+id=168, wrd="swift", defn="fast quick"
+
+id=169, wrd="cantankerous", defn="bad-tempered quarrelsome"
+
+id=170, wrd="humid", defn="damp moist"
+
+id=171, wrd="etiquette", defn="acceptable manners in society"
+
+id=172, wrd="lagoon", defn="a salt-water lake by the sea"
+
+id=173, wrd="dogmatic", defn="opinionated stubborn"
+
+id=174, wrd="dungeon", defn="dark underground cell"
+
+id=175, wrd="nourishment", defn="a source of strenght or support"
+
+id=176, wrd="ludicrous", defn="absurd ridiculous"
+
+id=177, wrd="expansive", defn="broad and large"
+
+id=178, wrd="barrier", defn="an obstruction anything that hinders or blocks"
+
+id=179, wrd="saucy", defn="impudent mischievously or playfully provocative"
+
+id=180, wrd="lateral", defn="at the side"
+
+id=181, wrd="token", defn="something representing or expressing something else on outward sign"
+
+id=182, wrd="effect", defn="something brought about by a cause or result"
+
+id=182, wrd="immaculate", defn="spotless free from blemish tidy"
+
+id=183, wrd="exhilarating", defn="exciting full of high spirits"
+
+id=184, wrd="foundation", defn="establishment basis"
+
+id=185, wrd="specify", defn="to identify precisely"
+
+id=186, wrd="satellite", defn="on object or body revolving around another"
+
+id=187, wrd="lunge", defn="a sudden forward movement of the body a thrust"
+
+id=188, wrd="reveal", defn="to make known to make visible by uncovering"
+
+id=189, wrd="adage", defn="wise, old saying"
+
+id=190, wrd="wretched", defn="very unhappy contemptible"
+
+id=191, wrd="superb", defn="of the most impressive or splendid kind"
+
+id=192, wrd="abduct", defn="to kidnap"
+
+id=193, wrd="magnanimous", defn="unselfish"
+
+id=194, wrd="candor", defn="frankness sincerity"
+
+id=195, wrd="egress", defn="exit"
+
+id=196, wrd="adept", defn="highly skilled an expert"
+
+id=197, wrd="propel", defn="to push forwards or onwards"
+
+id=198, wrd="heed", defn="to pay attention to"
+
+id=199, wrd="regal", defn="like or fit for a king"
+
+id=200, wrd="malfunction", defn="faulty functioning"
+
+id=201, wrd="taciturn", defn="saying little quiet"
+
+id=202, wrd="meager", defn="scanty in amount"
+
+id=203, wrd="barrage", defn="a curtain of artillery fire any prolonged attack"
+
+id=204, wrd="altruism", defn="unselfishness generosity"
+
+id=205, wrd="errant", defn="straying mistaken"
+
+id=206, wrd="tamper", defn="to meddle or interfere with"
+
+id=207, wrd="olfactory", defn="concerned with the sense of smell"
+
+id=208, wrd="contiguous", defn="in contact touching near next"
+
+id=209, wrd="lunge", defn="a sudden forward movement of the body a thrust"
+
+id=210, wrd="tangible", defn="able to be perceived by touch clear and definite real"
+
+id=211, wrd="seethe", defn="bubble as if boiling agitated or excited"
+
+id=212, wrd="vivacious", defn="lively"
+
+id=213, wrd="surmise", defn="to suppose to conclude"
+
+id=214, wrd="flaw", defn="an imperfection"
+
+id=215, wrd="overwhelm", defn="to exhaust to defeat"
+
+id=216, wrd="quench", defn="to satisfy (thirst to extinguish (a fire"
+
+id=217, wrd="obnoxious", defn="very unpleasant"
+
+id=218, wrd="option", defn="choice"
+
+id=219, wrd="collision", defn="a crash a colliding"
+
+id=220, wrd="jubilee", defn="a special anniversary"
+
+id=221, wrd="savor", defn="flavor smell to enjoy fully"
+
+id=222, wrd="dexterous", defn="skilled in mind or body"
+
+id=223, wrd="expanse", defn="wide open area"
+
+id=224, wrd="saturate", defn="to make thoroughly wet to fill or supply completely or to excess"
+
+id=225, wrd="animosity", defn="hatred hostility"
+
+id=226, wrd="transplant", defn="to transfer"
+
+id=227, wrd="solitary", defn="living alone without companions lonely"
+
+id=228, wrd="earmark", defn="to set aside for special purpose to identify"
+
+id=229, wrd="sentry", defn="a soldier posted to keep watch and guard something"
+
+id=230, wrd="bewildered", defn="to confuse hopelessly to befuddle"
+
+id=231, wrd="brig", defn="a two-masted ship with square sails"
+
+id=232, wrd="quiver", defn="to shake or vibrate with a slight rapid motion"
+
+id=233, wrd="fauna", defn="the animals of a specifed time period"
+
+id=234, wrd="observation", defn="watching carefully noticing things"
+
+id=235, wrd="advantageous", defn="profitable helpful"
+
+id=236, wrd="elusive", defn="hard to capture or understand"
+
+id=237, wrd="ensnare", defn="to catch in a trap"
+
+id=238, wrd="limber", defn="supple agile flexible"
+
+id=239, wrd="canine", defn="of or like a dog"
+
+id=240, wrd="skit", defn="a brief dramatic sketch"
+
+id=241, wrd="significant", defn="having meaning having importance"
+
+id=242, wrd="stress", defn="pressure mental or emotional strain"
+
+id=243, wrd="random", defn="done or occurring without method"
+
+id=244, wrd="disclaim", defn="to give up any claim to repudiate"
+
+id=245, wrd="erudite", defn="learned scholarly"
+
+id=246, wrd="encompass", defn="to surround to contain"
+
+id=247, wrd="rendezvous", defn="a pre-arranged meeting or meeting place"
+
+id=248, wrd="sustain", defn="to support to maintain"
+
+id=249, wrd="artifice", defn="skill or ingenuity"
+
+id=250, wrd="evacuate", defn="to leave empty to withdraw"
+
+id=251, wrd="tether", defn="a rope or chain for tying an animal down"
+
+id=252, wrd="chronic", defn="lasting a long time"
+
+id=253, wrd="indicate", defn="to point out"
+
+id=254, wrd="copious", defn="plentiful large in quantity"
+
+id=255, wrd="era", defn="a period of time/history (with a special characteristic"
+
+id=256, wrd="ignite", defn="to set fire to catch fire"
+
+id=257, wrd="discord", defn="conflict argument"
+
+id=258, wrd="jeer", defn="laugh or shout rudely or scornfully"
+
+id=259, wrd="marvel", defn="a wonderful thing to feel wonder"
+
+id=260, wrd="grave", defn="serious"
+
+id=261, wrd="fund", defn="to supply to offer money or support"
+
+id=262, wrd="harsh", defn="unpleasant offensive cruel severe"
+
+id=263, wrd="allege", defn="to declare without proof"
+
+id=264, wrd="hasten", defn="to speed up to hurry"
+       
+id=265, wrd="melancholy", defn="sadness state of grief"
+       
+id=266, wrd="flow", defn="to move like a liquid to pour out"
+
+id=267, wrd="orbit", defn="a path described by one body in its revolution around another"
+       
+id=268, wrd="vehement", defn="showing strong feeling"
+
+id=269, wrd="vex", defn="to annoy to irritate"
+
+id=270, wrd="sociable", defn="fond of company characterized by friendly companionship"
+
+id=271, wrd="timid", defn="shy scared fearful"
+
+id=272, wrd="tamper", defn="to meddle or interfere with"
+
+id=273, wrd="surrogate", defn="a substitute"
+
+id=274, wrd="taint", defn="to spoil to contaminate"
+
+id=275, wrd="trite", defn="hackneyed overused"
+
+id=276, wrd="trickle", defn="to flow slowly to move little by little"
+
+id=277, wrd="meek", defn="quiet and obedient not protesting"
+
+id=278, wrd="tactful", defn="a keen sense of keeping good relations and avoiding offense"
+
+id=279, wrd="mar", defn="to disfigure to spoil"
+
+id=280, wrd="malleable", defn="easily changed"
+
+id=281, wrd="insolent", defn="offensive insulting"
+
+id=282, wrd="ingenious", defn="original creative"
+
+id=283, wrd="adjourn", defn="to suspend (a meeting for a period of time"
+
+id=284, wrd="quell", defn="to quiet to suppress"
+
+id=285, wrd="behold", defn="to look at to observe"
+
+id=286, wrd="conserve", defn="to save prevent wastage"
+
+id=287, wrd="congregate", defn="to gather together"
+
+id=288, wrd="surfeit", defn="an excessive number an overindulgence"
+
+id=289, wrd="glee", defn="lively joy"
+
+id=290, wrd="notify", defn="to inform"
+
+id=291, wrd="scarcely", defn="hardly barely"
+
+id=292, wrd="vandalism", defn="intentional destruction of work or private property"
+
+id=293, wrd="reinforce", defn="to strengthen with additional forces"
+
+id=294, wrd="cajole", defn="to persuade to coax"
+
+id=295, wrd="coalesce", defn="to come together to unite"
+
+id=296, wrd="apt", defn="likely relevant"
+
+id=297, wrd="tolerate", defn="to deal with permit"
+
+id=298, wrd="compassion", defn="deep sympathy pity"
+
+id=299, wrd="botanist", defn="one who studies plant life"
+
+id=300, wrd="pursue", defn="to follow to try to catch or attack"
+
+id=301, wrd="refrain", defn="to hold back to suppress"
+
+id=302, wrd="variegated", defn="multi-colored"
+
+id=303, wrd="audacious", defn="bold daring fearless"
+
+id=304, wrd="ascertain", defn="to find out with certainty"
+
+id=305, wrd="erode", defn="to wear away"
+
+id=306, wrd="extricate", defn="to free"
+
+id=307, wrd="epoch", defn="a period of time in history"
+
+id=308, wrd="extraction", defn="the process of taking out by effort origin or descent"
+
+id=309, wrd="exotic", defn="foreign strangely beautiful"
+
+id=310, wrd="meteorologist", defn="someone who forecasts the weather"
+
+id=311, wrd="nauseous", defn="causing nausea or disgust"
+
+id=312, wrd="mourn", defn="to feel or express sorrow"
+
+id=313, wrd="ravenous", defn="extremely hungry"
+
+id=314, wrd="obstacle", defn="a hindrance"
+
+id=315, wrd="nebulous", defn="vague cloudy"
+
+id=316, wrd="mutation", defn="a change alteration in the genes"
+
+id=317, wrd="murky", defn="dark gloomy"
+
+id=318, wrd="vacuous", defn="empty void lacking intelligence"
+
+id=319, wrd="nomadic", defn="moving from place to place"
+
+id=320, wrd="nimble", defn="able to move quickly"
+
+id=321, wrd="countenance", defn="to favor to support a person's face"
+
+id=322, wrd="alleviate", defn="to reveal to ease pain"
+
+id=323, wrd="aperture", defn="an opening hole"
+
+id=324, wrd="akin", defn="related similar"
+
+id=325, wrd="benevolent", defn="generous charitable well-meaning"
+
+id=326, wrd="infectious", defn="likely to spread or cause an infection"
+
+id=327, wrd="adversary", defn="an enemy opponent foe"
+
+id=328, wrd="temperate", defn="without extremes self-restrained"
+
+id=329, wrd="aghast", defn="feeling great honor or dismamy"
+
+id=330, wrd="atrocious", defn="very wicked very bad"
+
+id=331, wrd="aspire", defn="to hope to have ambition"
+
+id=332, wrd="abdicate", defn="to give up power of position"
+
+id=333, wrd="declaim", defn="to speak in a dramatic way"
+
+id=334, wrd="amend", defn="to change to alter slightly"
+
+id=335, wrd="allure", defn="to entice to attract"
+
+id=336, wrd="cascade", defn="a small steep waterfall"
+
+id=337, wrd="affectation", defn="a pretending to like artificial behavior"
+
+id=338, wrd="articulate", defn="able to express oneself coherently"
+
+id=339, wrd="curvature", defn="a curving being curved"
+
+id=340, wrd="accelerate", defn="to increase in speed"
+
+id=341, wrd="circulate", defn="to pass around move from place to place"
+
+id=342, wrd="absurd", defn="tunreasonable ridiculous"
+
+id=343, wrd="confidential", defn="secret"
+
+id=344, wrd="coupled", defn="two successive rhyming lines of poetry"
+
+id=345, wrd="flounder", defn="to stumble fall sink"
+
+id=346, wrd="flippant", defn="disrespectful frivolous saucy"
+
+id=347, wrd="disputatious", defn="fond of arguing"
+
+id=348, wrd="formidable", defn="awesome difficult to achieve"
+
+id=349, wrd="dismal", defn="causing gloom or misery"
+
+id=350, wrd="rabid", defn="furious fanatical"
+
+id=351, wrd="tamper", defn="to meddle or interfere with"
+
+id=352, wrd="amphibian", defn="animal or plant living both on land and in water"
+
+id=353, wrd="assail", defn="to attack violently"
+
+id=354, wrd="amorous", defn="expressing love"
+
+id=355, wrd="choreographer", defn="one who devises dances or ballets"
+
+id=356, wrd="annihilate", defn="to destroy violently"
+
+id=357, wrd="sequel", defn="what follows, especially as a result"
+
+id=358, wrd="catastrophe", defn="sudden, great disaster"
+
+id=359, wrd="aimless", defn="having no purpose"
+
+id=360, wrd="stealthy", defn="quiet and cautious"
+
+id=361, wrd="tamper", defn="to meddle or interfere with"
+
+id=362, wrd="squander", defn="to waste"
+
+id=363, wrd="squalid", defn="dirty, unpleasant"
+
+id=364, wrd="foretell", defn="to predict"
+
+id=365, wrd="eminent", defn="towering or standing out above"
+
+id=366, wrd="taut", defn="stretched tightly"
+
+id=367, wrd="residue", defn="what is left over"
+
+id=368, wrd="sheer", defn="complete or absolute"
+
+id=369, wrd="rancorous", defn="having deep-seated ill-will"
+
+id=370, wrd="ominous", defn="threatening menacing"
+
+id=371, wrd="subdue", defn="to restrain hold back"
+
+id=372, wrd="suave", defn="charming confident elegant"
+
+id=373, wrd="opportune", defn="favorable well-timed"
+
+id=374, wrd="insomnia", defn="inability to sleep"
+
+id=375, wrd="insurgency", defn="an uprising a rebellion"
+
+id=376, wrd="intangible", defn="incapable of being touched"
+
+id=377, wrd="ironic", defn="contradictory inconsistent sarcastic"
+
+id=378, wrd="inundated", defn="flooded"
+
+id=379, wrd="irate", defn="angry"
+
+id=380, wrd="itinerant", defn="traveling"
+
+id=381, wrd="indict", defn="to make a formal accusation against"
+
+id=382, wrd="inert", defn="without power to move"
+
+id=383, wrd="skeptical", defn="incredulous"
+
+id=384, wrd="incentive", defn="a motive stimulus"
+
+id=385, wrd="impious", defn="disrespectful (especially of god"
+
+id=386, wrd="inadvertent", defn="not paying attention not observant"
+
+id=387, wrd="imperceptible", defn="un-noticeable slight"
+
+id=388, wrd="impervious", defn="unable to be penetrated or influenced"
+
+id=389, wrd="lethargic", defn="sluggish weak"
+
+id=390, wrd="spurn", defn="to reject to scorn"
+
+id=391, wrd="aqueous", defn="of, like or formed by water"
+
+id=392, wrd="adorn", defn="to decorate"
+
+id=393, wrd="acute", defn="very sharp severe"
+
+id=394, wrd="angular", defn="with sharp angles"
+
+id=395, wrd="abyss", defn="bottomless gulf"
+
+id=396, wrd="anxiety", defn="state of fear andn uncertainty"
+
+id=397, wrd="conventional", defn="traditional"
+
+id=398, wrd="arid", defn="extremely dry"
+
+id=399, wrd="choleric", defn="easily angered"
+
+id=400, wrd="abhor", defn="to hate to detest"
+
+id=401, wrd="courier", defn="a messenger"
+
+id=401, wrd="counsel", defn="advise"
+
+id=402, wrd="concise", defn="condensed brief"
+
+id=403, wrd="authoritative", defn="having authority commanding"
+
+id=404, wrd="affable", defn="friendly easy-going"
+
+id=405, wrd="constrict", defn="to make narrower by squeezing"
+
+id=406, wrd="agitate", defn="to stir or shake-up"
+
+id=407, wrd="glistening", defn="shining brightly"
+
+id=408, wrd="poll", defn="a survey of public opinion"
+
+id=409, wrd="reign", defn="a king's period of rule"
+
+id=410, wrd="entice", defn="to tempt"
+
+id=411, wrd="cue", defn="a signal hint"
+
+id=412, wrd="suppress", defn="to put an end to"
+
+id=413, wrd="susceptible", defn="easily affected or influenced"
+
+id=414, wrd="procrastinate", defn="to postpone action"
+
+id=415, wrd="prevail", defn="to gain victory"
+
+id=416, wrd="prophesy", defn="prediction of future events"
+
+id=417, wrd="slack", defn="not tight"
+
+id=418, wrd="unaccustomed", defn="not used to something"
+
+id=419, wrd="nullify", defn="to cancel to invalidate"
+
+id=420, wrd="tamper", defn="to meddle or interfere with"
+
+id=421, wrd="profound", defn="deep"
+
+id=422, wrd="astound", defn="to astonish greatly"
+
+id=423, wrd="communicative", defn="giving or exchanging information or messages"
+
+id=424, wrd="aloof", defn="detached indifferent distant"
+
+id=425, wrd="aforementioned", defn="said or mentioned before"
+
+id=426, wrd="arouse", defn="to awaken"
+
+id=427, wrd="bliss", defn="great happiness spiritual joy"
+
+id=428, wrd="decade", defn="period of 10 years"
+
+id=429, wrd="innocent", defn="not guilty free of sin"
+
+id=430, wrd="decay", defn="to spoil or go bad"
+
+id=431, wrd="hallowed", defn="holy or sacred"
+
+id=432, wrd="benefactor", defn="a donor"
+
+id=433, wrd="phenomenon", defn="something unusual"
+
+id=434, wrd="beneficial", defn="helpful"
+
+id=435, wrd="brash", defn="insolent impudent"
+
+id=436, wrd="recalcitrant", defn="obstinately disobedient"
+
+id=437, wrd="succeed", defn="to achieve one's aims or goals"
+
+id=438, wrd="ultimate", defn="final extreme"
+
+id=439, wrd="ferocious", defn="fierce savage"
+
+id=440, wrd="doze", defn="to nap"
+
+id=441, wrd="finale", defn="the ending"
+
+id=442, wrd="fragile", defn="easily broken delicate"
+
+id=443, wrd="frequent", defn="happening often"
+
+id=444, wrd="herbivorous", defn="feeding mainly on plants and grass"
+
+id=445, wrd="hexagon", defn="plane figure with six angles and six sides"
+
+id=446, wrd="horrid", defn="causing horror very bad ugly"
+
+id=447, wrd="hive", defn="shelter for a colony of bees"
+
+id=448, wrd="hibernate", defn="to spend the winter sleeping"
+
+id=449, wrd="hatch", defn="to break out of a egg to produce a plan"
+
+id=450, wrd="pedestrian", defn="a person walking commonplace or dull"
+
+id=451, wrd="terminate", defn="to come or bring to an end"
+
+id=452, wrd="terse", defn="concise abrupt pithy"
+
+id=453, wrd="orchid", defn="a showy flower"
+
+id=454, wrd="vivid", defn="intense clear"
+
+id=455, wrd="vacate", defn="cease to occupy"
+
+id=456, wrd="implicit", defn="understood without being directly expressed"
+
+id=457, wrd="staunch", defn="unshakeably loyal"
+
+id=458, wrd="shrewd", defn="clever astute"
+
+id=459, wrd="enact", defn="to pass a law to represent in a play"
+
+id=460, wrd="vague", defn="not clearly explained"
+
+id=461, wrd="agility", defn="quickness and ease of movement"
+
+id=462, wrd="biased", defn="prejudiced influenced"
+
+id=463, wrd="despicable", defn="deserving scorn contemptible"
+
+id=464, wrd="desolate", defn="lifeless empty"
+
+id=465, wrd="wanton", defn="irresponsible"
+
+id=466, wrd="wan", defn="sickly pale"
+
+id=467, wrd="vitality", defn="energy power to survive"
+
+id=468, wrd="tyranny", defn="cruel exercise of power"
+
+id=469, wrd="scrupulous", defn="honest careful"
+
+id=470, wrd="sinister", defn="suggesting something evil is at hand"
+
+id=471, wrd="procure", defn="to obtain by care or effort"
+
+id=472, wrd="admonish", defn="to reprove or warn"
+
+id=473, wrd="solicit", defn="to ask for something"
+
+id=474, wrd="repudiate", defn="to reject cancel"
+
+id=475, wrd="renowned", defn="famous"
+
+id=476, wrd="revelry", defn="lively festivity"
+
+id=477, wrd="mandatory", defn="necessary required"
+
+id=478, wrd="deadlock", defn="a standstill resulting from equal and opposed forces"
+
+id=479, wrd="burnish", defn="to polish"
+
+id=480, wrd="banal", defn="commonplace"
+
+id=481, wrd="petrify", defn="to become stone"
+
+id=482, wrd="candid", defn="honest truthful"
+
+id=483, wrd="hovel", defn="small hut"
+
+id=484, wrd="repartee", defn="an exchange of witty remarks"
+
+id=485, wrd="gruesome", defn="causing horrow grisly"
+
+id=486, wrd="embellish", defn="to adorn to add details"
+
+id=487, wrd="immortal", defn="living forever"
+
+id=488, wrd="fanatic", defn="overly enthusiastic person"
+
+id=489, wrd="fatal", defn="deadly"
+
+id=490, wrd="banish", defn="to exile"
+
+id=491, wrd="circumscribe", defn="to draw a line around"
+
+id=492, wrd="secure", defn="tightly fixed"
+
+id=493, wrd="summit", defn="top of a mountain"
+
+id=494, wrd="enigma", defn="puzzle mystery"
+
+id=495, wrd="scald", defn="to injure with hot liquid or steam"
+
+id=496, wrd="trace", defn="a small amount"
+
+id=497, wrd="obtuse", defn="slow to understand"
+
+id=498, wrd="chasm", defn="any break or gap"
+
+id=499, wrd="antidote", defn="substance that counteracts effect of poison"
+
+id=500, wrd="classify", defn="to organize"
+
+id=501, wrd="aroma", defn="pleasant odor"
+
+id=502, wrd="celestial", defn="heavenly"
