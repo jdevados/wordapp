@@ -1005,3 +1005,7 @@ id=500, wrd="classify", defn="to organize"
 id=501, wrd="aroma", defn="pleasant odor"
 
 id=502, wrd="celestial", defn="heavenly"
+
+id=503, wrd="deem", defn="to think; to consider"
+
+id=504, wrd="assailant", defn="a person who is attacking someone"
